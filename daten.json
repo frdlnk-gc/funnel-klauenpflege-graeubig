@@ -1,0 +1,156 @@
+{
+ "firma": "Klauenpflege Gräubig",
+ "firma_genitiv": "von Klauenpflege Gräubig",
+ "stelle": "Klauenpfleger (m/w/d)",
+ "ort": "Weißenberg (OT Wurschen)",
+ "plz": "02627",
+ "branche": "landwirtschaft",
+ "stelle_id": 1519,
+ "farbe_primary": "#A92636",
+ "farbe_secondary": "#534F4F",
+ "region_badge": "Weißenberg & Umgebung",
+ "benefit_top": "Unbefristet + Urlaubs- & Weihnachtsgeld",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Urlaubsgeld & Weihnachtsgeld",
+  "Betriebliche Altersvorsorge & vermögenswirksame Leistungen",
+  "Kostenübernahme für den Anhängerführerschein",
+  "Kostenübernahme für berufliche Zertifizierungen",
+  "Firmenhandy",
+  "Kita-Zuschuss",
+  "Unfallversicherung"
+ ],
+ "aufgaben": [
+  "Du übernimmst die fachgerechte Klauenpflege und -behandlung – mit Schwerpunkt Milchrinder",
+  "Du baust den Klauenpflegestand auf und ab und reinigst ihn",
+  "Du erfasst deine Befunde digital am Computer",
+  "Gemeinsam mit deinem Team bist du direkt in den Betrieben unserer Kunden an wechselnden Einsatzorten in Sachsen unterwegs"
+ ],
+ "anforderung": "Ein ruhiger Umgang mit Tieren, Teamgeist und die Bereitschaft, dich fachlich weiterzuentwickeln. Du hast eine abgeschlossene Berufsausbildung in einem handwerklichen Beruf, arbeitest zuverlässig und selbstständig und bringst einen Führerschein (Klasse B oder BE) mit. Vorkenntnisse in der Klauenpflege sind von Vorteil, aber kein Muss.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Klauenpflege",
+   "icon": "🐄",
+   "qualifikationen": [
+    {
+     "label": "Geprüfter Klauenpfleger",
+     "icon": "🎓"
+    },
+    {
+     "label": "Erfahren in der Klauenpflege",
+     "icon": "💪"
+    },
+    {
+     "label": "Erste Vorkenntnisse",
+     "icon": "🌱"
+    }
+   ]
+  },
+  {
+   "label": "Landwirtschaft / Tierhaltung",
+   "icon": "🚜",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Handwerklicher Beruf",
+   "icon": "🔧",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahren ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "fuehrerschein_optionen": [
+  {
+   "label": "Ja, Klasse BE",
+   "icon": "🚛"
+  },
+  {
+   "label": "Ja, Klasse B",
+   "icon": "🚗"
+  },
+  {
+   "label": "Nein",
+   "icon": "❌"
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "1999",
+    "label": "gegründet"
+   },
+   {
+    "zahl": "10–49",
+    "label": "Mitarbeiter"
+   }
+  ],
+  "text": "Klauenpflege Gräubig betreut Milchvieh- und Mutterkuhbetriebe in Sachsen rund um professionelle Klauenpflege und strukturiertes Klauenmanagement – von der regelmäßigen funktionellen Klauenpflege über Bestandsschnitte und Lahmheitskontrollen bis zur elektronischen Dokumentation. Gepflegt wird direkt bei den Kunden im Betrieb."
+ },
+ "kunde_tab": "71 Klauenpflege Gräubig",
+ "quelle": "https://klauenpflege-graeubig.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Weißenberg (02627)"
+ },
+ "hero_bild": "img/hero-stand-kuh.jpg",
+ "bilder": [
+  "img/f-stall-klauenpflege.jpg",
+  "img/f-team-stall.jpg",
+  "img/f-stand-anhaenger.jpg",
+  "img/f-team-hof.jpg",
+  "img/f-schulung-gasthaus.jpg",
+  "img/f-schulung-seminar.jpg",
+  "img/f-teamausflug.jpg"
+ ],
+ "video": {
+  "src": "img/video-klauenpflege.mp4",
+  "poster": "img/video-poster.jpg"
+ },
+ "meta_geo": [
+  "Am Schulteich 2, 02627 Weißenberg"
+ ]
+}
